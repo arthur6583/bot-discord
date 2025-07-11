@@ -4,8 +4,8 @@ const path = require('path');
 
 // Configuration du bot
 const config = {
-    token: 'YOUR_BOT_TOKEN_HERE',
-    clientId: 'YOUR_CLIENT_ID_HERE',
+    token: 'MTM5MzE5NDQ3NDgzODE2MzUzNw.G3UX1o.ldqvO6i4KwegUbeJDo6sQl7A4QdBRO5oqz6V8w',
+    clientId: '1393194474838163537',
     guildId: 'YOUR_GUILD_ID_HERE', // Optionnel pour les commandes globales
     prefix: '!',
     adminRole: 'Admin',
